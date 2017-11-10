@@ -1,0 +1,8 @@
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\bin\Debug\WarFrame.exe.config
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\bin\Debug\WarFrame.exe
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\bin\Debug\WarFrame.pdb
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\obj\Debug\WarFrame.csprojResolveAssemblyReference.cache
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\obj\Debug\WarFrame.MainForm.resources
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\obj\Debug\WarFrame.csproj.GenerateResource.Cache
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\obj\Debug\WarFrame.exe
+C:\Users\Yggdrasil\Documents\SharpDevelop Projects\WarFrame\WarFrame\obj\Debug\WarFrame.pdb
